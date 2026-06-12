@@ -95,7 +95,7 @@ Technology has the highest profit margin among all three categories, making it t
 ## 🚀 How to Run This Project
 1. Clone the repository
 ```bash
-git clone https://github.com/YOURUSERNAME/retail-sales-analytics.git
+git clone https://github.com/Sreejoy2024/retail-sales-analytics.git
 ```
 2. Set up MySQL database using scripts in `/sql` folder
 3. Run Jupyter notebooks in `/notebooks` folder in order
@@ -103,6 +103,6 @@ git clone https://github.com/YOURUSERNAME/retail-sales-analytics.git
 5. View live dashboard via Tableau Public link above
 
 ## 👤 Author
-**Your Name**
+**Sreejoy Garg**
 - GitHub: (https://github.com/Sreejoy2024)
 - LinkedIn:(https://www.linkedin.com/in/sreejoy-garg-637829277/)
